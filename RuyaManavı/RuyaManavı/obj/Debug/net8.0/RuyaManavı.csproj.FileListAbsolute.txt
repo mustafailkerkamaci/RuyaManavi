@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\bin\Debug\net8.0\RuyaManavı.exe
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\bin\Debug\net8.0\RuyaManavı.deps.json
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\bin\Debug\net8.0\RuyaManavı.runtimeconfig.json
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\bin\Debug\net8.0\RuyaManavı.dll
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\bin\Debug\net8.0\RuyaManavı.pdb
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\RuyaManavı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\RuyaManavı.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\RuyaManavı.AssemblyInfo.cs
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\RuyaManavı.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\RuyaManavı.sourcelink.json
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\RuyaManavı.dll
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\refint\RuyaManavı.dll
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\RuyaManavı.pdb
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\RuyaManavı.genruntimeconfig.cache
+C:\Users\musta\source\repos\RuyaManavı\RuyaManavı\obj\Debug\net8.0\ref\RuyaManavı.dll
